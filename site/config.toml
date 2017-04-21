@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chemist-ferret-86055.netlify.com/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
@@ -135,7 +135,7 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 0
-    
+
 [[menu.main]]
     name = "About"
     url  = "about"
